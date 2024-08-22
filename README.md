@@ -5,3 +5,5 @@ This repository contains the code snippets written by me during learning pytorch
 ## Topics learned till now
  - Installing
  - Tensors
+ - Autograd
+ - Optimizer

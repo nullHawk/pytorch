@@ -7,6 +7,8 @@ This repository contains the code snippets written by me during learning pytorch
  - Tensors
  - Autograd
  - Optimizer
+ - Backpropagation
+ - Gradient Descent with/without Autograd
 
 ## Setup
 - Creating conda enivronment

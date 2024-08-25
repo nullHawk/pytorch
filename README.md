@@ -10,6 +10,7 @@ This repository contains the code snippets written by me during learning pytorch
  - Backpropagation
  - Gradient Descent with/without Autograd
  - NN module in pytorch
+ - Linear Regression
 
 ## Setup
 - Creating conda enivronment

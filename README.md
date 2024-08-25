@@ -9,6 +9,7 @@ This repository contains the code snippets written by me during learning pytorch
  - Optimizer
  - Backpropagation
  - Gradient Descent with/without Autograd
+ - NN module in pytorch
 
 ## Setup
 - Creating conda enivronment

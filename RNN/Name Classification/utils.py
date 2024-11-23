@@ -33,6 +33,7 @@ def letter_to_tensor(letter):
     tensor[0][letter_to_index(letter)] = 1
     return tensor
 
+
 def line_to_tensor(line):
     tensor = torch.zeros(len(line), 1, N_LETTERS)
     for i, letter in enumerate(line):
